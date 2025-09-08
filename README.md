@@ -1,7 +1,7 @@
 # Lista de Compras
 
 <div align="center">
-  <img src="./assets/demo.gif" alt="Demo Lista de Compras" width="300">
+  <img src="./assets/demo.gif" alt="Demo Lista de Compras" width="400">
 </div>
 
 ### Sobre o Projeto
