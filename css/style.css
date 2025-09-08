@@ -65,7 +65,7 @@ input[type=number]::-webkit-inner-spin-button {
     font-weight: bold;
     color: #424443;
     background-color: #f0f0f0;
-    transition: 0,3s;
+    transition: 0,03s;
 }
 
 #button:hover, #button:focus {
@@ -127,7 +127,6 @@ li {
     background-color: #f0f0f0;
     font-weight: bold;
     color: #424443;
-
 }
 
 .btn:hover {
