@@ -1,14 +1,14 @@
 const notice = document.getElementById("notice");
 
-const item = document.getElementById("item"); /* item */
-const amount = document.getElementById("amount"); /* quantidade */
-const button =document.getElementById("button"); /* botão adicionar */
+const item = document.getElementById("item"); 
+const amount = document.getElementById("amount"); 
+const button =document.getElementById("button"); 
 
-const purchased = document.getElementById("purchased"); /* comprado */
-const pending = document.getElementById("pending"); /* pendente */
-const excluded = document.getElementById("excluded"); /* excluído */
+const purchased = document.getElementById("purchased"); 
+const pending = document.getElementById("pending"); 
+const excluded = document.getElementById("excluded"); 
 
-const listUl = document.getElementById("listUl"); /* lista n ordenada */
+const listUl = document.getElementById("listUl"); 
 
 var all = 0;
 var allPurchased = 0;
