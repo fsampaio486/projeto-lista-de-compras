@@ -1,27 +1,44 @@
 # Lista de Compras
 
+https://fsampaio486.github.io/projeto-lista-de-compras/
+
 <div align="center">
   <img src="./assets/demo.gif" alt="Demo Lista de Compras" width="400">
 </div>
 
+---
+
 ### Sobre o Projeto
+
 Este é um site simples de lista de compras, construído com HTML, CSS e JavaScript. Ele permite que o usuário adicione itens, marque-os como comprados, e os remova da lista.
 
+---
+
 ### Funcionalidades
-* Adicionar novos itens à lista.
-* Marcar itens como comprados.
-* Remover itens da lista.
-* Interface intuitiva e limpa.
+
+- Adicionar novos itens à lista.
+- Marcar itens como comprados.
+- Remover itens da lista.
+- Interface intuitiva e limpa.
+
+---
 
 ### Tecnologias Utilizadas
-* HTML5
-* CSS3
-* JavaScript
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
 
 ### Como Usar
+
 1.  Clone este repositório para o seu computador.
 2.  Abra o arquivo `index.html` em seu navegador.
 
+---
+
 ### Autor
-* **Nome:** Franciele Sampaio
-* **GitHub:** https://github.com/fsampaio486
+
+- **Nome:** Franciele Sampaio
+- **GitHub:** https://github.com/fsampaio486
